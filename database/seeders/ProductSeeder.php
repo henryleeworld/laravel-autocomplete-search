@@ -2,8 +2,8 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Seeder;
 use App\Models\Product;
+use Illuminate\Database\Seeder;
 
 class ProductSeeder extends Seeder
 {
@@ -61,11 +61,19 @@ class ProductSeeder extends Seeder
             ],
             [
                 'id' => 12,
-                'name' => '機動戰士鋼彈 Twilight AXIS'
+                'name' => '機動戰士鋼彈 NT'
             ],
             [
                 'id' => 13,
+                'name' => '機動戰士鋼彈 Twilight AXIS'
+            ],
+            [
+                'id' => 14,
                 'name' => '機動戰士鋼彈 閃光的哈薩威'
+            ],
+            [
+                'id' => 15,
+                'name' => '機動戰士鋼彈 水星的魔女'
             ]
         ];
 
