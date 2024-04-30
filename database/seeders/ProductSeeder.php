@@ -17,63 +17,63 @@ class ProductSeeder extends Seeder
         $products = [
             [
                 'id' => 1,
-                'name' => '機動戰士鋼彈'
+                'name' => __('Mobile Suit Gundam')
             ],
             [
                 'id' => 2,
-                'name' => '機動戰士鋼彈 THE ORIGIN'
+                'name' => __('Mobile Suit Gundam The Origin')
             ],
             [
                 'id' => 3,
-                'name' => '機動戰士鋼彈 第 08MS 小隊'
+                'name' => __('Mobile Suit Gundam The 08th MS Team')
             ],
             [
                 'id' => 4,
-                'name' => '機動戰士鋼彈 MS IGLOO'
+                'name' => __('Mobile Suit Gundam MS IGLOO')
             ],
             [
                 'id' => 5,
-                'name' => '機動戰士鋼彈 雷霆宙域戰線'
+                'name' => __('Mobile Suit Gundam Thunderbolt')
             ],
             [
                 'id' => 6,
-                'name' => '機動戰士鋼彈 0080'
+                'name' => __('Mobile Suit Gundam 0080')
             ],
             [
                 'id' => 7,
-                'name' => '機動戰士鋼彈 0083'
+                'name' => __('Mobile Suit Gundam 0083')
             ],
             [
                 'id' => 8,
-                'name' => '機動戰士 Z 鋼彈'
+                'name' => __('Mobile Suit Z Gundam')
             ],
             [
                 'id' => 9,
-                'name' => '機動戰士鋼彈 ZZ'
+                'name' => __('Mobile Suit Gundam ZZ')
             ],
             [
                 'id' => 10,
-                'name' => '機動戰士鋼彈 逆襲的夏亞'
+                'name' => __('Mobile Suit Gundam: Char\'s Counterattack')
             ],
             [
                 'id' => 11,
-                'name' => '機動戰士鋼彈 UNICORN'
+                'name' => __('Mobile Suit Gundam Unicorn')
             ],
             [
                 'id' => 12,
-                'name' => '機動戰士鋼彈 NT'
+                'name' => __('Mobile Suit Gundam NT (Narrative)')
             ],
             [
                 'id' => 13,
-                'name' => '機動戰士鋼彈 Twilight AXIS'
+                'name' => __('Mobile Suit Gundam Twilight AXIS')
             ],
             [
                 'id' => 14,
-                'name' => '機動戰士鋼彈 閃光的哈薩威'
+                'name' => __('Mobile Suit GUNDAM Hathaway')
             ],
             [
                 'id' => 15,
-                'name' => '機動戰士鋼彈 水星的魔女'
+                'name' => __('Mobile Suit Gundam The Witch from Mercury')
             ]
         ];
 

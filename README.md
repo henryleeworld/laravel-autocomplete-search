@@ -1,4 +1,4 @@
-# Laravel 10 自動完成搜尋
+# Laravel 11 自動完成搜尋
 
 用戶從輸入第一個字開始後，就提供下拉式選單自動推薦相關商品資訊供用戶選擇以快速輸入的搜尋建議功能。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/jKkCfcS.gif)
+![](https://i.imgur.com/tokVXLC.gif)
 > 讓使用者在輸入搜尋選項時更加容易
